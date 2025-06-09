@@ -1,0 +1,2 @@
+# Modular-Billing-System
+ Santosh Dhaba is a Python-based restaurant billing system with user authentication, dynamic menu display, and real-time bill generation. Built using SQLite and modular architecture, it allows customers to place orders by item ID and quantity. Ideal for learning database integration, input handling, and backend logic in Python.
